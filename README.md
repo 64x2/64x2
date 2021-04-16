@@ -10,4 +10,4 @@
 * 64x2#0001
 * 64x2email@protonmail.com
 
-[![64x2's github stats](https://github-readme-stats.vercel.app/api?username=64x2)](https://github.com/anuraghazra/github-readme-stats)
+![64x2's GitHub stats](https://github-readme-stats.vercel.app/api?username=64x2&show_icons=true&theme=dark)
