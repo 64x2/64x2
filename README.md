@@ -1,10 +1,10 @@
 ## Welcome, Im 64x2 👋
 
 ### 🔭 I’m currently working on ...
-* Duels+, a fork the duels plugin by Realized.
+* xmod, private skyblock addons mod
 
 ### 🌱 I’m currently learning ...
-* Java
+* Java, LUA
 
 ### 📫 How to reach me: ...
 * 64x2#0001
