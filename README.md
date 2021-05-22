@@ -7,7 +7,7 @@
 * Java, LUA
 
 ### 📫 How to reach me: ...
-* 64x2#0001
+* ex two#6235 (I do not accept friend requests on my main account)
 * 64x2email@protonmail.com
 
 ![64x2's GitHub stats](https://github-readme-stats.vercel.app/api?username=64x2&show_icons=true&theme=dark)
