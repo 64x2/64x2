@@ -1,13 +1,13 @@
 ## Welcome, Im 64x2 👋
 
 ### 🔭 I’m currently working on ...
-* xmod, private skyblock addons mod
+* Life in Tokyo, a low-poly game with (CD)[https://github.com/boyitsroni]
 
 ### 🌱 I’m currently learning ...
-* Java, LUA
+* C#
 
 ### 📫 How to reach me: ...
-* ex two#6235 (I do not accept friend requests on my main account)
+* dv#1337
 * 64x2email@protonmail.com
 
 ![64x2's GitHub stats](https://github-readme-stats.vercel.app/api?username=64x2&show_icons=true&theme=dark)
