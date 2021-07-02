@@ -1,10 +1,10 @@
 ## Welcome, Im 64x2 👋
 
 ### 🔭 I’m currently working on ...
-* Life in Tokyo, a low-poly game with [CD](https://github.com/boyitsroni)
+* Spirit.club, private minecraft mod for 2b2t.
 
 ### 🌱 I’m currently learning ...
-* C#
+* Java, JavaScript
 
 ### 📫 How to reach me: ...
 * 64x2#0001
