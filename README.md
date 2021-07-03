@@ -1,7 +1,7 @@
 ## Welcome, Im 64x2 👋
 
 ### 🔭 I’m currently working on ...
-* Spirit.club, private minecraft mod for 2b2t.
+* Nothing
 
 ### 🌱 I’m currently learning ...
 * Java, JavaScript
