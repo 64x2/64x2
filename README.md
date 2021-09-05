@@ -2,6 +2,7 @@
 (learning) html & java developer <br>
 
 # ○ Social
-**Discord:** ``z64x2#0001``<br>
-**Minecraft Username:** ``exxor``<br>
+**Discord:** ``64x2#0221``<br>
+**Minecraft Username:** ``hxtp``<br>
 **Telegram:** ``t.me/v64x2``<br>
+**Others** ``dsc.bio/64x2``<br>
