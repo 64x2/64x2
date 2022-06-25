@@ -1,3 +1,12 @@
-# ● 64x2 / Xofo
-Python 3 Developer, mostly for Discord <br>
-From the United Kingdom 🇬🇧
+## Welcome, Im Xofo 👋
+
+### 🔭 I’m currently working on ...
+* Gato Bot - github.com/gato-services/gato-bot
+
+### 🌱 I’m currently learning ...
+* Python
+* Discord.py
+
+### 🐱 Gato Services
+* Working on discord bots and other related projects
+* https://github.com/gato-services
